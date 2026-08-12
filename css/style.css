@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
-
 body{
     margin: 0;
     padding: 0;
@@ -40,7 +39,12 @@ h3{
     color: #fff;
     text-align: right;
     margin-top: -45px;
+
 }
 .login {
+    margin-left: auto;
+}
+
+nav div{
     margin-left: auto;
 }
