@@ -5,5 +5,5 @@ document.getElementById("titulo-site").textContent = titulo;
 
 
 const title = "REGISTRE-SE";
-document.title = title;
+document.title = titulo;
 document.getElementById("login-site").textContent = title;

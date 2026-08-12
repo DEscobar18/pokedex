@@ -27,10 +27,10 @@ header{
     padding: 65px; 
 }
 nav{
-    text-align: left;
-
+    display: flex;
 }
 nav a{
+    text-align: left;
     text-decoration: none;
     color: #fff;
     padding: 2px;
@@ -41,7 +41,6 @@ h3{
     text-align: right;
     margin-top: -45px;
 }
-nav a:hover{
-    color: #000;
-    transition: 0.5s;
+.login {
+    margin-left: auto;
 }
