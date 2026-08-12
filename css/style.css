@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
 body{
     margin: 0;
     padding: 0;
@@ -27,4 +29,19 @@ header{
 nav{
     text-align: left;
 
+}
+nav a{
+    text-decoration: none;
+    color: #fff;
+    padding: 2px;
+    font-family: 'arial', sans-serif;
+}
+h3{
+    color: #fff;
+    text-align: right;
+    margin-top: -45px;
+}
+nav a:hover{
+    color: #000;
+    transition: 0.5s;
 }
