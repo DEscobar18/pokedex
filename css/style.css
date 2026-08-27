@@ -48,3 +48,14 @@ h3{
 nav div{
     margin-left: auto;
 }
+main{
+    color: #000000;
+    margin: 25px;
+    text-align: center;
+    font-family: 'arial', sans-serif;
+}
+h2{
+    color: #fff;
+    text-align: center;
+    
+}
